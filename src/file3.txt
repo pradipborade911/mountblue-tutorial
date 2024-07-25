@@ -1,2 +1,2 @@
-File3 in feature
+File3 in feature changed this from master
 Change done in feature
