@@ -1,2 +1,4 @@
 File3 in feature
 Change done in feature
+
+changes in feature//stretch 
